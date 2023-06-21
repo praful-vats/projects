@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/praful-vats/projects/static/css/main.3712e060.css",
+    "main.js": "/praful-vats/projects/static/js/main.df4c5767.js",
+    "static/js/787.7e443956.chunk.js": "/praful-vats/projects/static/js/787.7e443956.chunk.js",
+    "static/media/trip2c.jpg": "/praful-vats/projects/static/media/trip2c.f7214212007cacb04c27.jpg",
+    "static/media/Img3c.jpg": "/praful-vats/projects/static/media/Img3c.a7236ca9dea9327645a2.jpg",
+    "static/media/Img5c.jpg": "/praful-vats/projects/static/media/Img5c.9fa309108d053de97a10.jpg",
+    "static/media/trip3c.jpg": "/praful-vats/projects/static/media/trip3c.28d8b354c54da6cc99b3.jpg",
+    "static/media/Img2c.jpg": "/praful-vats/projects/static/media/Img2c.bd79b92d4f87da1770e0.jpg",
+    "static/media/Img6c.jpg": "/praful-vats/projects/static/media/Img6c.9bbcb8b218dc9a05c307.jpg",
+    "index.html": "/praful-vats/projects/index.html",
+    "main.3712e060.css.map": "/praful-vats/projects/static/css/main.3712e060.css.map",
+    "main.df4c5767.js.map": "/praful-vats/projects/static/js/main.df4c5767.js.map",
+    "787.7e443956.chunk.js.map": "/praful-vats/projects/static/js/787.7e443956.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3712e060.css",
+    "static/js/main.df4c5767.js"
+  ]
+}
