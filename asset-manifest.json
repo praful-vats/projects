@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.7bcb93a3.css",
-    "main.js": "/static/js/main.50857497.js",
-    "static/js/787.7e443956.chunk.js": "/static/js/787.7e443956.chunk.js",
-    "static/media/Img3c.jpg": "/static/media/Img3c.a7236ca9dea9327645a2.jpg",
-    "static/media/Img2c.jpg": "/static/media/Img2c.aba0d3163281768a2380.jpg",
-    "static/media/trip3c.jpg": "/static/media/trip3c.28d8b354c54da6cc99b3.jpg",
-    "static/media/Img6c.jpg": "/static/media/Img6c.514eae2edbe396dc0ec4.jpg",
-    "static/media/trip2c.jpg": "/static/media/trip2c.8042e256183ee5e53f93.jpg",
-    "static/media/Img5c.jpg": "/static/media/Img5c.f793a4b6df88d283beff.jpg",
-    "index.html": "/index.html",
-    "main.7bcb93a3.css.map": "/static/css/main.7bcb93a3.css.map",
-    "main.50857497.js.map": "/static/js/main.50857497.js.map",
-    "787.7e443956.chunk.js.map": "/static/js/787.7e443956.chunk.js.map"
+    "main.css": "/projects/static/css/main.7bcb93a3.css",
+    "main.js": "/projects/static/js/main.d0de3a6d.js",
+    "static/js/787.7e443956.chunk.js": "/projects/static/js/787.7e443956.chunk.js",
+    "static/media/Img3c.jpg": "/projects/static/media/Img3c.a7236ca9dea9327645a2.jpg",
+    "static/media/Img2c.jpg": "/projects/static/media/Img2c.aba0d3163281768a2380.jpg",
+    "static/media/trip3c.jpg": "/projects/static/media/trip3c.28d8b354c54da6cc99b3.jpg",
+    "static/media/Img6c.jpg": "/projects/static/media/Img6c.514eae2edbe396dc0ec4.jpg",
+    "static/media/trip2c.jpg": "/projects/static/media/trip2c.8042e256183ee5e53f93.jpg",
+    "static/media/Img5c.jpg": "/projects/static/media/Img5c.f793a4b6df88d283beff.jpg",
+    "index.html": "/projects/index.html",
+    "main.7bcb93a3.css.map": "/projects/static/css/main.7bcb93a3.css.map",
+    "main.d0de3a6d.js.map": "/projects/static/js/main.d0de3a6d.js.map",
+    "787.7e443956.chunk.js.map": "/projects/static/js/787.7e443956.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7bcb93a3.css",
-    "static/js/main.50857497.js"
+    "static/js/main.d0de3a6d.js"
   ]
 }
