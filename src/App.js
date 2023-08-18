@@ -70,10 +70,10 @@ export default function App() {
               <h1 className='font1' style={{ position: 'absolute', top: '-16vh', left: '275vw' }}>python x react</h1> */}
               <a className='fonts' href="https://praful-vats.github.io/xense/" style={{ position: 'absolute', top: '50vh', left: '40vw' }}>xense&#x1F86D;</a>
               <a className='fonts' href="https://praful-vats.github.io/xyle/" style={{ position: 'absolute', top: '50vh', left: '84vw' }}>xyle&#x1F86D;</a>
-              <a className='fonts' href="/xf" style={{ position: 'absolute', top: '50vh', left: '133vw' }}>gesture&#x1F86D;</a>
-              <a className='fonts' href="/xf" style={{ position: 'absolute', top: '50vh', left: '190vw' }}>zero& ones&#x1F86D;</a>
-              <a className='fonts' href="/xf" style={{ position: 'absolute', top: '50vh', left: '240vw' }}>xpose&#x1F86D;</a>
-              <a className='fonts' href="/xf" style={{ position: 'absolute', top: '50vh', left: '287vw' }}>xandom&#x1F86D;</a>
+              <a className='fonts' href="https://praful-vats.github.io/ml5/" style={{ position: 'absolute', top: '50vh', left: '133vw' }}>ml5&#x1F86D;</a>
+              <a className='fonts' href="https://praful-vats.github.io/click/" style={{ position: 'absolute', top: '50vh', left: '190vw' }}>click&#x1F86D;</a>
+              <a className='fonts' href="https://praful-vats.github.io/zero_one/" style={{ position: 'absolute', top: '50vh', left: '240vw' }}>zero_one&#x1F86D;</a>
+              <a className='fonts' href="https://praful-vats.github.io" style={{ position: 'absolute', top: '50vh', left: '287vw' }}>portfolio&#x1F86D;</a>
             </Scroll>
           </ScrollControls>
           <Preload />
