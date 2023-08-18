@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/projects/static/css/main.5f56c4e9.css",
-    "main.js": "/projects/static/js/main.eb194d9d.js",
-    "static/js/787.7e443956.chunk.js": "/projects/static/js/787.7e443956.chunk.js",
-    "static/media/Img3c.jpg": "/projects/static/media/Img3c.a7236ca9dea9327645a2.jpg",
-    "static/media/Img2c.jpg": "/projects/static/media/Img2c.aba0d3163281768a2380.jpg",
-    "static/media/trip3c.jpg": "/projects/static/media/trip3c.28d8b354c54da6cc99b3.jpg",
-    "static/media/trip2c.jpg": "/projects/static/media/trip2c.514eae2edbe396dc0ec4.jpg",
-    "static/media/Img6c.jpg": "/projects/static/media/Img6c.8042e256183ee5e53f93.jpg",
-    "static/media/Img5c.jpg": "/projects/static/media/Img5c.f793a4b6df88d283beff.jpg",
-    "static/media/Img4c.jpg": "/projects/static/media/Img4c.ac063bbfbeadf036f0a2.jpg",
-    "index.html": "/projects/index.html",
-    "main.5f56c4e9.css.map": "/projects/static/css/main.5f56c4e9.css.map",
-    "main.eb194d9d.js.map": "/projects/static/js/main.eb194d9d.js.map",
-    "787.7e443956.chunk.js.map": "/projects/static/js/787.7e443956.chunk.js.map"
+    "main.css": "/praful-vats/projects/static/css/main.7bcb93a3.css",
+    "main.js": "/praful-vats/projects/static/js/main.a6857e68.js",
+    "static/js/787.7e443956.chunk.js": "/praful-vats/projects/static/js/787.7e443956.chunk.js",
+    "static/media/Img3c.jpg": "/praful-vats/projects/static/media/Img3c.a7236ca9dea9327645a2.jpg",
+    "static/media/Img2c.jpg": "/praful-vats/projects/static/media/Img2c.aba0d3163281768a2380.jpg",
+    "static/media/trip3c.jpg": "/praful-vats/projects/static/media/trip3c.28d8b354c54da6cc99b3.jpg",
+    "static/media/Img6c.jpg": "/praful-vats/projects/static/media/Img6c.514eae2edbe396dc0ec4.jpg",
+    "static/media/trip2c.jpg": "/praful-vats/projects/static/media/trip2c.8042e256183ee5e53f93.jpg",
+    "static/media/Img5c.jpg": "/praful-vats/projects/static/media/Img5c.f793a4b6df88d283beff.jpg",
+    "index.html": "/praful-vats/projects/index.html",
+    "main.7bcb93a3.css.map": "/praful-vats/projects/static/css/main.7bcb93a3.css.map",
+    "main.a6857e68.js.map": "/praful-vats/projects/static/js/main.a6857e68.js.map",
+    "787.7e443956.chunk.js.map": "/praful-vats/projects/static/js/787.7e443956.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f56c4e9.css",
-    "static/js/main.eb194d9d.js"
+    "static/css/main.7bcb93a3.css",
+    "static/js/main.a6857e68.js"
   ]
 }
