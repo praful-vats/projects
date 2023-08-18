@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/praful-vats/projects/static/css/main.3712e060.css",
-    "main.js": "/praful-vats/projects/static/js/main.fdb9dddd.js",
+    "main.css": "/praful-vats/projects/static/css/main.7bcb93a3.css",
+    "main.js": "/praful-vats/projects/static/js/main.c2620252.js",
     "static/js/787.7e443956.chunk.js": "/praful-vats/projects/static/js/787.7e443956.chunk.js",
     "static/media/Img3c.jpg": "/praful-vats/projects/static/media/Img3c.a7236ca9dea9327645a2.jpg",
+    "static/media/Img2c.jpg": "/praful-vats/projects/static/media/Img2c.aba0d3163281768a2380.jpg",
     "static/media/trip3c.jpg": "/praful-vats/projects/static/media/trip3c.28d8b354c54da6cc99b3.jpg",
-    "static/media/Img2c.jpg": "/praful-vats/projects/static/media/Img2c.bd79b92d4f87da1770e0.jpg",
-    "static/media/Img6c.jpg": "/praful-vats/projects/static/media/Img6c.c7b2c8d8c6f56ac89627.jpg",
-    "static/media/Img5c.jpg": "/praful-vats/projects/static/media/Img5c.c61fbba55ca46419c83b.jpg",
-    "static/media/trip2c.jpg": "/praful-vats/projects/static/media/trip2c.eab2ed995b6781298450.jpg",
+    "static/media/Img6c.jpg": "/praful-vats/projects/static/media/Img6c.514eae2edbe396dc0ec4.jpg",
+    "static/media/trip2c.jpg": "/praful-vats/projects/static/media/trip2c.8042e256183ee5e53f93.jpg",
+    "static/media/Img5c.jpg": "/praful-vats/projects/static/media/Img5c.f793a4b6df88d283beff.jpg",
     "index.html": "/praful-vats/projects/index.html",
-    "main.3712e060.css.map": "/praful-vats/projects/static/css/main.3712e060.css.map",
-    "main.fdb9dddd.js.map": "/praful-vats/projects/static/js/main.fdb9dddd.js.map",
+    "main.7bcb93a3.css.map": "/praful-vats/projects/static/css/main.7bcb93a3.css.map",
+    "main.c2620252.js.map": "/praful-vats/projects/static/js/main.c2620252.js.map",
     "787.7e443956.chunk.js.map": "/praful-vats/projects/static/js/787.7e443956.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3712e060.css",
-    "static/js/main.fdb9dddd.js"
+    "static/css/main.7bcb93a3.css",
+    "static/js/main.c2620252.js"
   ]
 }
