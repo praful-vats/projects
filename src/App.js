@@ -5,7 +5,7 @@ import Img4c from './Img4c.jpg';
 import Img5c from './Img5c.jpg';
 import Img6c from './Img6c.jpg';
 import trip2c from './trip2c.jpg';
-import trip3c from './trip3c.jpg';
+import Img0c from './Img0.jpg';
 
 import { Suspense, useRef } from 'react'
 import { Canvas, useFrame, useThree } from '@react-three/fiber'
@@ -45,12 +45,12 @@ function Pages() {
   const { width } = useThree((state) => state.viewport)
   return (
     <>
-      <Page position={[-width * 1, 0, 0]} urls={[Img4c, trip2c, trip3c]} />
-      <Page position={[width * 0, 0, 0]} urls={[Img4c, Img2c, Img3c]} />
-      <Page position={[width * 1, 0, 0]} urls={[Img4c, Img5c, Img6c]} />
-      <Page position={[width * 2, 0, 0]} urls={[Img4c, trip2c, trip3c]} />
-      <Page position={[width * 3, 0, 0]} urls={[Img4c, Img2c, Img3c]} />
-      <Page position={[width * 4, 0, 0]} urls={[Img4c, Img5c, Img6c]} />
+      <Page position={[-width * 1, 0, 0]} urls={[Img4c, Img6c, trip2c]} />
+      <Page position={[width * 0, 0, 0]} urls={[Img4c, Img0c, Img3c]} />
+      <Page position={[width * 1, 0, 0]} urls={[Img4c, Img2c, Img5c]} />
+      <Page position={[width * 2, 0, 0]} urls={[Img4c, Img6c, trip2c]} />
+      <Page position={[width * 3, 0, 0]} urls={[Img4c, Img0c, Img3c]} />
+      <Page position={[width * 4, 0, 0]} urls={[Img4c, Img2c, Img5c]} />
     </>
   )
 }
@@ -68,12 +68,12 @@ export default function App() {
               {/* <h1 className='font1' style={{ position: 'absolute', top: '-16vh', left: '25vw' }}>generative adversarial networks</h1>
               <h1 className='font1' style={{ position: 'absolute', top: '-16vh', left: '125vw' }}>ml5.js &nbsp;x&nbsp; p5.js &nbsp;x&nbsp; three.js</h1>
               <h1 className='font1' style={{ position: 'absolute', top: '-16vh', left: '275vw' }}>python x react</h1> */}
-              <a className='fonts' href="https://praful-vats.github.io/xense/" style={{ position: 'absolute', top: '50vh', left: '40vw' }}>xense&#x1F86D;</a>
-              <a className='fonts' href="https://praful-vats.github.io/xyle/" style={{ position: 'absolute', top: '50vh', left: '84vw' }}>xyle&#x1F86D;</a>
-              <a className='fonts' href="https://praful-vats.github.io/ml5/" style={{ position: 'absolute', top: '50vh', left: '140vw' }}>ml5&#x1F86D;</a>
-              <a className='fonts' href="https://praful-vats.github.io/zero_one/" style={{ position: 'absolute', top: '50vh', left: '190vw' }}>zero& one&#x1F86D;</a>
-              <a className='fonts' href="https://praful-vats.github.io/click/" style={{ position: 'absolute', top: '50vh', left: '240vw' }}>click&#x1F86D;</a>
-              <a className='fonts' href="https://praful-vats.github.io" style={{ position: 'absolute', top: '50vh', left: '287vw' }}>portfolio&#x1F86D;</a>
+              <a className='fonts' href="http://dalal-street.online/" target="_blank" rel="noopener noreferrer" style={{ position: 'absolute', top: '50vh', left: '40vw' }}>dalal street&#x1F86D;</a>
+              <a className='fonts' href="https://praful-vats.github.io/xyle/" target="_blank" rel="noopener noreferrer" style={{ position: 'absolute', top: '50vh', left: '84vw' }}>xyle&#x1F86D;</a>
+              <a className='fonts' href="https://praful-vats.github.io/xense/" target="_blank" rel="noopener noreferrer" style={{ position: 'absolute', top: '50vh', left: '140vw' }}>xense&#x1F86D;</a>
+              <a className='fonts' href="https://praful-vats.github.io/ml5/" target="_blank" rel="noopener noreferrer" style={{ position: 'absolute', top: '50vh', left: '190vw' }}>ml5&#x1F86D;</a>
+              <a className='fonts' href="https://praful-vats.github.io/zero_one/" target="_blank" rel="noopener noreferrer" style={{ position: 'absolute', top: '50vh', left: '240vw' }}>zero& one&#x1F86D;</a>
+              <a className='fonts' href="https://praful-vats.github.io/click/" target="_blank" rel="noopener noreferrer" style={{ position: 'absolute', top: '50vh', left: '287vw' }}>click&#x1F86D;</a>
             </Scroll>
           </ScrollControls>
           <Preload />
